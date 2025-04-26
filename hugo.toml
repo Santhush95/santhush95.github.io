@@ -1,0 +1,4 @@
+baseURL = 'https://santhush95.github.io/'
+languageCode = 'en-us'
+title = 'SK Zone'
+theme = 'ananke'
